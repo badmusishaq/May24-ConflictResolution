@@ -1,5 +1,5 @@
 Starting a new project
 
-Repo B modificationStarting a new project
+Repo B modification
 
 Updating from Repo A folder
